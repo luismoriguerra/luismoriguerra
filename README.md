@@ -7,6 +7,7 @@
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/luismoriguerra)
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/luismoriguerra)
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=luismoriguerra"></a>
+
 :wave: Hi there, My name is Luis Mori Guerra,  I’m a software engineer, with more than 10 years of experience, I’m a full-stack developer using javascript as my main programming language but through my years I didn’t have any problem working with other languages.
 
 These last years I’ve been focused on Frontend architectures using AWS architectures for frontend applications, and in that way being able to create self-contained applications, where you can isolate a frontend, backend, and deploy implementation in one repository
