@@ -137,4 +137,4 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismoriguerra" alt="luismoriguerra" />
-[Link](http://myprofile.dev.platform.linuxfoundation.org/)![Description](https://sample-videos.com/img/Sample-jpg-image-50kb.jpg)
+<img src="https://sample-videos.com/img/Sample-jpg-image-50kb.jpg" />
