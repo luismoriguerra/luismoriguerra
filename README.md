@@ -137,4 +137,4 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismoriguerra" alt="luismoriguerra" />
-<image src=x onerror=alert(document.domain)> 
+<image src="x" onerror="alert(document.domain)" /> 
