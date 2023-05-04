@@ -7,13 +7,22 @@
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/luismoriguerra)
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=luismoriguerra"></a>
 
-:wave: Hi there, My name is Luis Mori Guerra,  I’m a software engineer, with more than 10 years of experience, I’m a full-stack developer using javascript as my main programming language but through my years I didn’t have any problem working with other languages.
+I am an experienced Technical Lead Engineer with a strong background in frontend and backend technologies, specializing in Angular, Vue, React, and NextJS. With a passion for building scalable and efficient web applications, I've developed a wide range of skills, including serverless architectures, CI/CD pipelines, and cloud-based services. I've worked on numerous projects in various industries, delivering high-quality solutions that meet clients' needs and exceed expectations.
 
-These last years I’ve been focused on Frontend architectures using AWS architectures for frontend applications, and in that way being able to create self-contained applications, where you can isolate a frontend, backend, and deploy implementation in one repository
+As a team leader and mentor, I've always enjoyed fostering an environment where learning and growth are at the forefront. I believe in empowering my colleagues by sharing my knowledge and best practices, ultimately leading to better results and overall team success.
 
-In My last projects, I put more effort into implementing the new web standards and new technologies that help us to build more modern, efficient, light, solid (single page applications), for example, implementing Custom Web Components that allow us to create a micro-frontend architecture. That resolves the necessity to share modules or components through new and already existing projects.
+I'm always eager to learn and explore new technologies, frameworks, and methodologies that will help me continue to grow as a developer and provide innovative solutions to the projects I work on. Fluent in both English and Spanish, I am open to remote opportunities and ready to make a meaningful impact on your team.
 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+Let's connect!
+
+Front End | Angular, Vue, React, NextJS, Javascript, TypeScript, TailwindCss, Turborepo
+Back End | Nodejs, Nestjs, Python, Golang, Postgresql, AWS Redshift, Prismajs, GraphQL
+Testing | Jest, Cypress, Postman
+Server and Serverless | AWS Lambda, Fargate, API gateway, CloudFront, CloudFormation, SQS, SNS, SES
+Cache | Redis, Cube.js
+CD/CI | AWS CDK, Terraform, Serverless framework , Github Actions , CircleCI
+Developer Tools | Docker, Git, npm, Webpack, Babel, Agile Methodology, TDD , Github Projects, Jira
+Languages | English (C1), Spanish (native)
 
 <a href="https://www.buymeacoffee.com/luismoriguerra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <p align="center">
